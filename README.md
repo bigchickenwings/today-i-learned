@@ -6,7 +6,7 @@ This repo is where I will share what I have learned throughout my days!
 >
 > For simple cases, it can be just a `.rb` file demonstrating it.
 
-- [day-01]: 26/JUL/2022
+- [day-01] - 26/JUL/2022
   - Scopes
 
 
