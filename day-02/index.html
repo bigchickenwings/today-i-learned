@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>Document</title>
+</head>
+<body>
+  <h1>CSS General sibling combinator</h1>
+  <form action="get">
+    <label for="name">Name</label>
+    <input type="text" id="name">
+    <br>
+
+    <label for="full_form">Do you want to fill in all of your personal information?</label>
+    <br>
+    <input type="radio" name="full_form" checked><label>No</label>
+    <input type="radio" name="full_form" class="toggle"><label>Yes</label>
+    <br>
+
+    <div class="toggle__content">
+      <label for="bio_sex">Biological Sex</label>
+      <input type="text" id="bio_sex">
+      <br>
+  
+      <label for="gender">Gender</label>
+      <input type="text" id="gender">
+      <br>
+  
+      <label for="address">Address</label>
+      <input type="text" id="address">
+      <br>
+    </div>
+
+    <input type="submit" value="Send Form">
+  </form>
+</body>
+</html>

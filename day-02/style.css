@@ -1,0 +1,7 @@
+.toggle ~ .toggle__content {
+  display: none;
+}
+
+.toggle:checked ~ .toggle__content {
+  display: block;
+}
