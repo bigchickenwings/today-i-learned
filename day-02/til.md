@@ -1,4 +1,4 @@
-# Day 02 - 29/JUL-2022
+# Day 02 - 29/JUL/2022
 CSS General sibling combinator
 
 I dug in on CSS and thanks to @matheusrich found out about [this].
