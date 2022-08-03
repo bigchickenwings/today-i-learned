@@ -10,3 +10,7 @@ This repo is where I will share what I have learned throughout my days!
   - Scopes
 - [day-02](/day-02) - 29/JUL/2022
   - CSS General sibling combinator
+- [day-03](/day-03) - 01/AUG/2022
+  - ActiveRecord validations with booleans
+- [day-04](/day-04) - 02/AUG/2022
+  - document.currentScript
