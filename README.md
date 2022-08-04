@@ -14,3 +14,5 @@ This repo is where I will share what I have learned throughout my days!
   - ActiveRecord validations with booleans
 - [day-04](/day-04) - 02/AUG/2022
   - document.currentScript
+- [day-05](/day-05) - 03/AUG/2022
+  - Scopes directly on the association
