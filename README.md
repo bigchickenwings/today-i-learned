@@ -16,3 +16,5 @@ This repo is where I will share what I have learned throughout my days!
   - document.currentScript
 - [day-05](/day-05) - 03/AUG/2022
   - Scopes directly on the association
+- [day-06](/day-06) - 04/AUG/2022
+  - PORO Models
