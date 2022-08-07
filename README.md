@@ -18,3 +18,5 @@ This repo is where I will share what I have learned throughout my days!
   - Scopes directly on the association
 - [day-06](/day-06) - 04/AUG/2022
   - PORO Models
+- [day-07](/day-07) - 05/AUG/2022
+  - Source Location
