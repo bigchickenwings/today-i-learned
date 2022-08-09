@@ -20,3 +20,5 @@ This repo is where I will share what I have learned throughout my days!
   - PORO Models
 - [day-07](/day-07) - 05/AUG/2022
   - Source Location
+- [day-08](/day-08) - 08/AUG/2022
+  - Gem simplecov
