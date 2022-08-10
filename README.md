@@ -22,3 +22,5 @@ This repo is where I will share what I have learned throughout my days!
   - Source Location
 - [day-08](/day-08) - 08/AUG/2022
   - Gem simplecov
+- [day-09](/day-09) - 09/AUG/2022
+  - Gem bullet
