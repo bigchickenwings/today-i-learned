@@ -1,0 +1,17 @@
+<%= anchor_section(user) do %>
+  <h2>Section 1</h2>
+  <%= user.biography %>
+<% end %>
+
+<%# This is the same as: %>
+<a href="users/<%=user.id%>" aria-label="Go to <%=user.name%>'s profile">
+  <h2>Section 1</h2>
+  <%= user.biography %>
+</a>
+
+<%= anchor_with_yield(user) do %>
+  <h2>Section 2</h2>
+  <%= user.age %>
+  <%= user.country %>
+  <%= user.gender %>
+<% end %>
