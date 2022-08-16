@@ -30,3 +30,5 @@ This repo is where I will share what I have learned throughout my days!
   - Rails View Helpers - Blocks & Yield
 - [day-12](/day-12) - 15/AUG/2022
   - Gem shoulda matchers
+- [day-13](/day-13) - 16/AUG/2022
+  - Rails create_with
