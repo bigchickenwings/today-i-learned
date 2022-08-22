@@ -1,0 +1,1 @@
+puts Enumerator.produce([0,1]) { |base_1, base_2| [base_2, base_1 + base_2] }.take(10).map(&:first)
