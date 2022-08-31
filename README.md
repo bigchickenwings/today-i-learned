@@ -34,5 +34,5 @@ This repo is where I will share what I have learned throughout my days!
   - Rails create_with
 - [day-14](/day-14) - 22/AUG/2022
   - Enumerator#produce
-
-  test gpg2
+- [day-15](/day-15) - 31/AUG/2022
+  - ActiveRecord #missing method
