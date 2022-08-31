@@ -32,3 +32,7 @@ This repo is where I will share what I have learned throughout my days!
   - Gem shoulda matchers
 - [day-13](/day-13) - 16/AUG/2022
   - Rails create_with
+- [day-14](/day-14) - 22/AUG/2022
+  - Enumerator#produce
+- [day-15](/day-15) - 31/AUG/2022
+  - ActiveRecord #missing method
