@@ -36,3 +36,5 @@ This repo is where I will share what I have learned throughout my days!
   - Enumerator#produce
 - [day-15](/day-15) - 31/AUG/2022
   - ActiveRecord #missing method
+- [day-16](/day-16) - 06/SEP/2022
+  - min_by method
